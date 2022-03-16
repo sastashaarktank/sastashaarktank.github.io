@@ -12,7 +12,7 @@
 <a href="##"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/XTG-BRUTAL"><img title="Developer" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/XTG-BRUTAL"><img title="Developer" src="https://img.shields.io/badge/Author-Brutal-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Brutal" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
